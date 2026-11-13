@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="web/icon-192.png" width="88" alt="Palm Remote logo" />
   <h1>Palm Remote · 掌上遥控</h1>
   <p>用手机或平板通过局域网控制 Windows 10/11 桌面。<br />
@@ -20,11 +20,11 @@ Palm Remote 是一个面向局域网的 Windows 远程控制 Web 应用。手机
 
 <table>
   <tr>
-    <td colspan="2" align="center"><img src="docs/screenshots/live-tablet.png" width="860" alt="平板实时画面" /><br /><sub>平板横屏：实时查看电脑桌面（Edge 窗口 + Windows 任务栏），画面在左、控制面板在右</sub></td>
+    <td colspan="2" align="center"><img src="docs/screenshots/live-tablet.png?v=2" width="860" alt="平板实时画面" /><br /><sub>平板横屏：实时查看电脑桌面（Edge 窗口 + Windows 任务栏），画面在左、控制面板在右</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/live-phone-landscape.png" width="520" alt="手机实时画面" /><br /><sub>手机横屏：实时画面、Windows 任务栏与控制按钮</sub></td>
-    <td align="center"><img src="docs/screenshots/keyboard.png" width="230" alt="键盘输入" /><br /><sub>键盘输入与快捷键</sub></td>
+    <td align="center"><img src="docs/screenshots/live-phone-landscape.png?v=2" width="520" alt="手机实时画面" /><br /><sub>手机横屏：实时画面、Windows 任务栏与控制按钮</sub></td>
+    <td align="center"><img src="docs/screenshots/keyboard.png?v=2" width="230" alt="键盘输入" /><br /><sub>键盘输入与快捷键</sub></td>
   </tr>
 </table>
 
@@ -186,3 +186,4 @@ palm-remote/
 ## 许可证
 
 本项目基于 [MIT License](LICENSE) 开源。
+
