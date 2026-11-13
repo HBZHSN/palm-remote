@@ -154,7 +154,7 @@ node --test tests/*.test.js
 ## 项目结构
 
 ```text
-remote_control/
+palm-remote/
 ├─ backend/           # aiohttp 服务、抓屏、NVENC 推流、输入注入与流控
 ├─ web/               # PWA 前端：触控板、解码、手势、样式与图标
 ├─ tests/             # Python / Node 单元测试与浏览器冒烟测试
