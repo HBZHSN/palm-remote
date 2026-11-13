@@ -1,0 +1,5 @@
+aiohttp>=3.12,<4
+cryptography>=44,<49
+av>=16,<17
+dxcam>=0.3,<0.4
+opencv-python>=4.11,<6
