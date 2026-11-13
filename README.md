@@ -58,8 +58,8 @@ Palm Remote 是一个面向局域网的 Windows 远程控制 Web 应用。手机
 1. 克隆仓库：
 
    ```powershell
-   git clone https://github.com/<your-name>/remote_control.git
-   cd remote_control
+   git clone https://github.com/HBZHSN/palm-remote.git
+   cd palm-remote
    ```
 
 2. 运行安装脚本（自动请求 UAC）：
