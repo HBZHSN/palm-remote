@@ -20,15 +20,15 @@ Palm Remote 是一个面向局域网的 Windows 远程控制 Web 应用。手机
 
 <table>
   <tr>
-    <td colspan="2" align="center"><img src="docs/screenshots/live-tablet.png" width="860" alt="平板实时画面" /><br /><sub>平板横屏：实时查看电脑桌面，画面在左、控制面板在右</sub></td>
+    <td colspan="2" align="center"><img src="docs/screenshots/live-tablet.png" width="860" alt="平板实时画面" /><br /><sub>平板横屏：实时查看电脑桌面（Edge 窗口 + Windows 任务栏），画面在左、控制面板在右</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/live-phone-landscape.png" width="520" alt="手机实时画面" /><br /><sub>手机横屏：实时画面与控制按钮</sub></td>
+    <td align="center"><img src="docs/screenshots/live-phone-landscape.png" width="520" alt="手机实时画面" /><br /><sub>手机横屏：实时画面、Windows 任务栏与控制按钮</sub></td>
     <td align="center"><img src="docs/screenshots/keyboard.png" width="230" alt="键盘输入" /><br /><sub>键盘输入与快捷键</sub></td>
   </tr>
 </table>
 
-> 截图中的桌面为演示场景，用于展示实时画面、低延迟串流和触控布局。
+> 被控屏幕中展示的是 Edge 打开的 GitHub 仓库页面与 Windows 任务栏，方便直观看清实时画面、低延迟串流和触控布局。
 
 ## 功能特性
 
